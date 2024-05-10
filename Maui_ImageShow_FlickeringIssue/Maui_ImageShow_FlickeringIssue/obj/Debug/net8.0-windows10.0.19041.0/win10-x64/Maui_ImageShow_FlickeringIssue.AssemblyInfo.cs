@@ -11,10 +11,14 @@
 using System;
 using System.Reflection;
 
+[assembly: System.Reflection.AssemblyMetadataAttribute("Microsoft.Maui.ApplicationModel.AppInfo.PackageName", "com.companyname.maui_imageshow_flickeringissue")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("Microsoft.Maui.ApplicationModel.AppInfo.PublisherName", "User Name")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("Microsoft.Maui.ApplicationModel.AppInfo.Name", "Maui_ImageShow_FlickeringIssue")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("Microsoft.Maui.ApplicationModel.AppInfo.Version", "1.0.0.1")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Maui_ImageShow_FlickeringIssue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+71c00ae71e260774c9ee40ea430260e5abda5978")]
 [assembly: System.Reflection.AssemblyProductAttribute("Maui_ImageShow_FlickeringIssue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Maui_ImageShow_FlickeringIssue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

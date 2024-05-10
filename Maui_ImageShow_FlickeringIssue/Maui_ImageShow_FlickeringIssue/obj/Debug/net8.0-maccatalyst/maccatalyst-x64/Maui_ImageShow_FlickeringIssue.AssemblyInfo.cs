@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Maui_ImageShow_FlickeringIssue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+71c00ae71e260774c9ee40ea430260e5abda5978")]
 [assembly: System.Reflection.AssemblyProductAttribute("Maui_ImageShow_FlickeringIssue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Maui_ImageShow_FlickeringIssue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
